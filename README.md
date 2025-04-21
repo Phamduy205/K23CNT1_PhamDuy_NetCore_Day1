@@ -21,3 +21,4 @@ Người thực hiện: **Phạm Văn Duy**
 ## Cách chạy project
 1. Clone repo về máy:
    ```bash
+git@github.com:Phamduy205/K23CNT1_PhamDuy_NetCore_Day1.git
